@@ -3,7 +3,7 @@
 	https://www.kaggle.com/c/liverpool-ion-switching/overview
 
 # 2.数据集
-	训练集为5000000*3的数组，每一列分别代表时间(ms), 电位差和离子通道数。
+	训练集为5000000*3的数组，每一列分别代表时间(s), 电位差和离子通道数。
 	测试集为2000000*2的数组，每一列代表时间和电位差，预测给出离子通道数，比赛截止前评分采用前30%的测试集。
 ![image](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%95%B0%E6%8D%AE%E9%9B%86.png)
 	
