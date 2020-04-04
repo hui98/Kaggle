@@ -25,7 +25,7 @@
 	通过CNN来学习特征或许是一个更好的解决方案。
 	
 	
-	最终模型如下图：(Netron是根据类名来生成计算图的，和实际模型有些偏差，仅作为参考)
+	最终模型如下图：(Netron是根据类名来生成计算图的，和实际模型有些偏差，仅作为参考，详情见models.py)
 ![](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%89%B9%E6%B3%A8%202020-03-26%20235238.png)
 ![](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/lstm.png)
 	
