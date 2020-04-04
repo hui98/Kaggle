@@ -35,6 +35,6 @@
 	迭代120次后选择在val set中交叉熵损失最小的解输出到submission.csv中。
 
 # 5.总结
-	最好提交成绩为0.941(最高0.943)，排名38。目前还是银牌。
+	最好提交成绩为0.941(最高0.943)，排名38,前4%。目前还是银牌。
   根据讨论https://www.kaggle.com/c/liverpool-ion-switching/discussion/135576，
   或许是单纯使用CV中分数最高。
