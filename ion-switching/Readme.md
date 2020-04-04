@@ -5,7 +5,8 @@
 # 2.数据集
 	训练集为5000000*3的数组，每一列分别代表时间(ms), 电位差和离子通道数。
 	测试集为2000000*2的数组，每一列代表时间和电位差，预测给出离子通道数，比赛截止前评分采用前30%的测试集。
-	![train set](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%95%B0%E6%8D%AE%E9%9B%86.png)
+![image](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%95%B0%E6%8D%AE%E9%9B%86.png)
+	
 	下载地址：https://www.kaggle.com/c/liverpool-ion-switching/data
 
 # 3.思路&模型
@@ -25,8 +26,8 @@
 	
 	
 	最终模型如下图：
-	![model](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%89%B9%E6%B3%A8%202020-03-26%20235238.png)
-	![lstm](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/lstm.png)
+![](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/%E6%89%B9%E6%B3%A8%202020-03-26%20235238.png)
+![](https://github.com/hui98/Kaggle/blob/master/ion-switching/pics/lstm.png)
 	
 # 4.训练与调参
 	
