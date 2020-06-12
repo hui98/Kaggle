@@ -35,8 +35,6 @@
 	迭代120次后选择在val set中交叉熵损失最小的解输出到submission.csv中。
 
 # 5.总结
-	1.最好提交成绩为0.941(最高0.943)，排名38,前4%。目前还是银牌。
-	2.Resnet确实提高了网络表现(0.932~0.941)，但三层以上效果基本一致。
-  根据讨论https://www.kaggle.com/c/liverpool-ion-switching/discussion/135576，
-  或许是单纯使用CV中分数最高。
+	
+
   
